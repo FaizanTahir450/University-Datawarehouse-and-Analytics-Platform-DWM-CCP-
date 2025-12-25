@@ -3,7 +3,7 @@ import csv
 import sys
 
 try:
-    client = pymongo.MongoClient("mongodb+srv://dwm_user:admin@cluster0.eb7pff9.mongodb.net/?appName=Cluster0")
+    client = pymongo.MongoClient("")
 except pymongo.errors.ConfigurationError:
     print("An Invalid URI host error was received. Is your Atlas host name correct in your connection string?")
     sys.exit(1)
@@ -57,4 +57,5 @@ except pymongo.errors.OperationFailure:
     sys.exit(1)
 except Exception as e:
     print(f"An error occurred: {e}")
+
     sys.exit(1)
