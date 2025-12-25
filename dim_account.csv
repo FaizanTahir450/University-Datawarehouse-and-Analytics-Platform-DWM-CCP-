@@ -1,0 +1,21 @@
+account_id,account_code,account_name,account_type,category
+1,ACC1001,Maintenance Account,Expense,Utilities
+2,ACC1002,Utilities Account,Asset,Salary
+3,ACC1003,Salary Account,Equity,Equipment
+4,ACC1004,Maintenance Account,Expense,Equipment
+5,ACC1005,Maintenance Account,Equity,Utilities
+6,ACC1006,Equipment Account,Asset,Utilities
+7,ACC1007,Salary Account,Equity,Utilities
+8,ACC1008,Utilities Account,Expense,Utilities
+9,ACC1009,Maintenance Account,Expense,Salary
+10,ACC1010,Utilities Account,Liability,Tuition
+11,ACC1011,Equipment Account,Liability,Utilities
+12,ACC1012,Equipment Account,Expense,Supplies
+13,ACC1013,Supplies Account,Equity,Tuition
+14,ACC1014,Tuition Account,Asset,Equipment
+15,ACC1015,Salary Account,Expense,Tuition
+16,ACC1016,Equipment Account,Expense,Utilities
+17,ACC1017,Equipment Account,Equity,Tuition
+18,ACC1018,Salary Account,Revenue,Salary
+19,ACC1019,Utilities Account,Equity,Supplies
+20,ACC1020,Salary Account,Equity,Utilities

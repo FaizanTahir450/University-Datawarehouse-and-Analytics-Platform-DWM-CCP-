@@ -1,0 +1,61 @@
+employee_id,first_name,last_name,email,phone,hire_date,job_title,salary,department_id,manager_id,employment_type,benefits_eligible
+1,Stephanie,Guzman,sanchezjames@example.org,775-530-1033x7564,2016-01-26,Administrative Assistant,84152.98,7,36.0,Contract,0
+2,Andrea,Snow,emily65@example.org,(522)678-0431x8204,2018-09-14,HR Manager,98615.77,4,60.0,Full-time,1
+3,Megan,Dyer,croberts@example.com,853-331-1523,2024-07-13,Administrative Assistant,54135.18,1,,Full-time,1
+4,Caitlin,Dalton,dstout@example.com,+1-689-934-4762x348,2015-05-25,Lecturer,54683.49,4,46.0,Part-time,0
+5,Kent,Lewis,aprilmoore@example.org,(608)339-9837x1215,2015-10-16,Administrative Assistant,100527.70,4,26.0,Part-time,0
+6,Don,Lee,kevans@example.net,946-981-3257,2022-06-20,Associate Professor,117770.58,2,46.0,Full-time,1
+7,Casey,Bryan,james87@example.com,+1-853-203-0922x451,2015-05-27,Assistant Professor,46507.67,3,3.0,Part-time,1
+8,Steven,Gonzalez,lisacampbell@example.net,001-537-807-7939x745,2024-01-29,Associate Professor,31703.75,5,34.0,Contract,1
+9,Brittany,Lee,thomasadam@example.net,898.298.2674x63396,2024-05-26,Assistant Professor,111464.78,3,34.0,Contract,0
+10,Jesse,Stein,dannybaker@example.net,(888)232-4840,2013-02-22,HR Manager,89219.48,3,60.0,Part-time,0
+11,John,Curry,hallrebecca@example.com,(533)867-9436,2011-05-07,Associate Professor,54032.24,6,32.0,Contract,1
+12,Teresa,Davies,sarah62@example.com,459-514-9939,2019-06-29,Assistant Professor,40850.20,2,36.0,Part-time,0
+13,Donna,Mcmillan,sfitzgerald@example.org,595-889-1689x1142,2011-12-25,Research Assistant,105033.15,2,34.0,Contract,0
+14,Paul,Collins,lauren98@example.net,650.299.5023x70249,2024-07-02,Research Assistant,38411.33,2,60.0,Part-time,0
+15,Tiffany,Thornton,collinselizabeth@example.org,(729)303-1175x12290,2017-08-24,Finance Officer,77119.98,7,44.0,Part-time,0
+16,Craig,Duran,joycecook@example.com,5359047319,2024-06-13,HR Manager,34904.80,5,34.0,Contract,0
+17,Steven,Vazquez,brandyjackson@example.org,+1-264-252-7961x114,2013-06-01,Finance Officer,79667.30,3,34.0,Contract,1
+18,Susan,Le,olsenmatthew@example.org,936.575.2558,2011-04-24,Research Assistant,73969.62,6,46.0,Full-time,1
+19,Leslie,Williams,jasonmaxwell@example.com,340.463.7633x17080,2018-03-31,Finance Officer,55429.72,1,34.0,Part-time,0
+20,Misty,Vargas,katiegibson@example.net,7249610662,2023-12-26,Department Head,84421.90,5,32.0,Full-time,0
+21,Rebecca,Hernandez,bassgeorge@example.org,641.776.2728,2023-10-23,Finance Officer,112472.36,2,3.0,Full-time,1
+22,Catherine,Allen,matthewscott@example.net,+1-506-462-8958x9753,2012-11-04,IT Support,77858.82,3,46.0,Part-time,1
+23,Richard,Alvarez,melodyperry@example.com,+1-970-895-0079,2021-03-12,Research Assistant,49403.64,5,32.0,Contract,1
+24,Benjamin,Clayton,sherry02@example.org,382-318-3570,2015-08-14,Administrative Assistant,52825.29,4,36.0,Part-time,1
+25,Daniel,Conrad,williamsdavid@example.com,(740)751-3075,2020-12-27,Professor,74341.21,7,26.0,Part-time,1
+26,Kendra,Hernandez,scott27@example.org,6333389854,2018-12-15,Administrative Assistant,50591.56,6,,Contract,1
+27,Rebecca,Mcdonald,smithjulia@example.net,+1-607-487-4925x8599,2015-10-19,Lecturer,71528.87,5,47.0,Full-time,1
+28,Tammy,Silva,kent51@example.com,(663)280-4167,2015-02-19,Professor,87453.57,5,36.0,Full-time,0
+29,David,Campos,jonathan55@example.com,+1-961-739-6768x621,2013-01-22,Associate Professor,115042.34,2,32.0,Full-time,0
+30,Jeffrey,Hernandez,jeffrey19@example.org,588-472-6440x521,2013-12-12,HR Manager,46464.90,7,40.0,Contract,1
+31,Amanda,Bowen,palmerchristopher@example.org,218.470.0942x233,2019-03-23,Lecturer,61487.73,1,34.0,Contract,0
+32,David,French,kristinarodriguez@example.com,+1-393-480-9671x6992,2011-12-26,Assistant Professor,101741.68,6,,Full-time,0
+33,Kenneth,Moore,johnpotter@example.net,561.403.4130x2858,2017-02-05,HR Manager,82357.30,2,3.0,Part-time,1
+34,Peggy,Buckley,lisa99@example.com,903.645.3449x30559,2012-09-06,Finance Officer,72287.69,3,,Contract,0
+35,Patricia,Mcintyre,richardritter@example.net,930-945-9126x86694,2012-07-01,Administrative Assistant,99433.47,8,40.0,Part-time,1
+36,Brittany,Avila,reesejon@example.net,998-581-6153,2023-05-26,Associate Professor,59267.53,6,,Full-time,1
+37,Aaron,Harper,vanderson@example.com,+1-740-225-1870,2022-04-19,HR Manager,80739.55,4,60.0,Part-time,0
+38,Christian,James,jonathonsandoval@example.org,(490)339-1949x2783,2019-02-18,Research Assistant,47288.54,2,36.0,Full-time,1
+39,Roy,Luna,christopherpreston@example.net,267.245.2952x1592,2015-03-30,Administrative Assistant,92716.26,6,47.0,Contract,1
+40,Katrina,White,jamesflores@example.com,359.621.4714x30414,2010-11-21,Department Head,57137.62,6,,Part-time,1
+41,Maria,Nguyen,aaronrobinson@example.com,(288)587-9686,2023-07-16,Assistant Professor,55924.92,3,36.0,Part-time,1
+42,Anthony,Weiss,fthomas@example.com,470-363-5872,2020-08-09,Lecturer,36698.60,7,44.0,Full-time,0
+43,Bianca,Olson,kevin05@example.net,832-674-1758x1215,2022-01-02,Research Assistant,32971.22,5,3.0,Full-time,1
+44,Sydney,Hoover,murphyantonio@example.net,+1-749-900-7559x7589,2021-04-18,IT Support,97309.97,8,,Full-time,0
+45,Maria,Matthews,jenniferbrown@example.net,001-647-787-2728x146,2020-11-22,Administrative Assistant,108370.29,6,34.0,Part-time,0
+46,Brenda,Mitchell,stewartrhonda@example.com,3953744595,2015-10-07,Lecturer,82080.15,7,,Full-time,0
+47,Charles,Patterson,johnsonbobby@example.net,972.271.9157,2023-08-22,HR Manager,94962.95,1,,Contract,0
+48,Amy,Mathews,bennettmaria@example.org,(741)695-6821x018,2019-11-09,Finance Officer,63236.83,1,26.0,Full-time,0
+49,Sara,Smith,james80@example.com,8315621992,2012-06-05,Associate Professor,111970.53,8,26.0,Contract,1
+50,Bob,Crosby,hallchristine@example.org,(323)259-8974,2024-05-01,Professor,64094.38,8,26.0,Part-time,1
+51,Melissa,Monroe,gallaghertamara@example.com,990.772.9550x696,2024-07-29,Professor,111212.52,1,47.0,Contract,0
+52,Nicholas,Mills,james42@example.net,(865)492-2533x9872,2025-11-03,HR Manager,48220.93,2,,Contract,1
+53,Paige,Campos,ewilson@example.net,+1-506-708-9207x164,2021-08-18,Administrative Assistant,60301.79,8,36.0,Part-time,0
+54,Vanessa,Boone,billydoyle@example.com,001-615-222-9272x673,2025-06-03,Associate Professor,79993.56,1,44.0,Full-time,0
+55,Douglas,Lang,gwilliamson@example.net,736.450.2970,2016-03-25,Department Head,54039.34,6,44.0,Part-time,1
+56,Nicholas,Sullivan,cabreraapril@example.net,(283)542-9431x27713,2021-12-26,Administrative Assistant,45670.21,8,60.0,Part-time,1
+57,Judy,Monroe,taylor55@example.com,234.679.1487,2024-11-27,Finance Officer,66629.33,8,34.0,Part-time,1
+58,Benjamin,Marshall,alicia49@example.net,(990)585-7714x0831,2023-10-11,Department Head,52865.29,7,47.0,Part-time,0
+59,Carlos,Boyd,hillsarah@example.org,(269)368-9171x326,2011-02-27,Associate Professor,70405.37,8,47.0,Full-time,0
+60,Andrea,Walker,cristina15@example.com,2237138661,2016-03-09,HR Manager,86623.17,6,,Full-time,0
